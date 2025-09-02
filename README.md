@@ -13,7 +13,7 @@ Hi there! 👋 I’m **Arav Adikesh Ramakrishnan**, a computer science graduate 
 
 📄 **Publications**  
 - [*Enhancing English-to-Spanish Medical Translation of Large Language Models Using Enriched Chain-of-Dictionary Framework* — EMNLP 2025](#)  
-- [*Enhancing Multilingual Medical Summarization viaContextual Keyword Augmentation* — CLEF 2025](#)  
+- [*Enhancing Multilingual Medical Summarization via Contextual Keyword Augmentation* — CLEF 2025](#)  
 
 🚀 **Current Work**  
 - Researching medical NLP and translation at **UMass BioNLP Lab**, with publications at CLEF 2025 & EMNLP 2025.  
@@ -26,9 +26,7 @@ Hi there! 👋 I’m **Arav Adikesh Ramakrishnan**, a computer science graduate 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravadikesh)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aravadikesh)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://aravadikesh.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravadikesh)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aravadikesh)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://aravadikesh.vercel.app/)  
 
 ---
 
