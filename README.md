@@ -7,25 +7,21 @@ Hi there! 👋 I’m **Arav Adikesh Ramakrishnan**, a computer science graduate 
 - B.S. Computer Science, University of Massachusetts Amherst (GPA: 3.93)  
 
 🔬 **Research & Interests**  
-- Machine Learning, Neural Networks, and Reinforcement Learning  
-- Trustworthy and Responsible AI  
-- Medical NLP, Machine Translation, and AI Security  
+- BioMedical NLP
+- Machine Translation
+- RL Based Recommender systems
+
+📄 **Publications**  
+- [*Enhancing English-to-Spanish Medical Translation of Large Language Models Using Enriched Chain-of-Dictionary Framework* — EMNLP 2025](#)  
+- [*Enhancing Multilingual Medical Summarization viaContextual Keyword Augmentation* — CLEF 2025](#)  
 
 🚀 **Current Work**  
 - Researching medical NLP and translation at **UMass BioNLP Lab**, with publications at CLEF 2025 & EMNLP 2025.  
 - Developing large-scale ML pipelines and annotation systems as a **Data Science Fellow** at the UMass Center for Data Science and AI.  
-- Exploring optimization in deepfake detection and generative AI safety.  
-
-💻 **Selected Projects**  
-- **DeepFakeDetector**: Flask-based pipeline with CNN ensembles (EfficientNet-B7, XceptionNet), achieving 96% accuracy on DeepFake TIMIT and scaling to 100+ videos/hour.  
-- **Gear Locker System**: Scalable FastAPI + PostgreSQL backend with CI/CD pipelines, improving data fetch performance by 40%.  
 
 🤝 **Let’s Collaborate On**  
 - AI/ML optimization, applied NLP, or backend systems at scale.  
 - Research in trustworthy AI and reinforcement learning.  
-
-⚡ **Fun Fact**  
-When I’m not coding, you’ll find me on a badminton court or immersed in a FromSoftware game.  
 
 ---
 
