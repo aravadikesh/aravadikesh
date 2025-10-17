@@ -12,8 +12,8 @@ Hi there! 👋 I’m **Arav Adikesh Ramakrishnan**, a computer science graduate 
 - RL Based Recommender systems
 
 📄 **Publications**  
-- [*Enhancing English-to-Spanish Medical Translation of Large Language Models Using Enriched Chain-of-Dictionary Framework* — EMNLP 2025](#)  
-- [*Enhancing Multilingual Medical Summarization via Contextual Keyword Augmentation* — CLEF 2025](#)  
+- [*Enhancing English-to-Spanish Medical Translation of Large Language Models Using Enriched Chain-of-Dictionary Framework* — EMNLP 2025](#https://arxiv.org/abs/2509.00934)  
+- [*Enhancing Multilingual Medical Summarization via Contextual Keyword Augmentation* — CLEF 2025](#https://ceur-ws.org/Vol-4038/paper_40.pdf)  
 
 🚀 **Current Work**  
 - Researching medical NLP and translation at **UMass BioNLP Lab**, with publications at CLEF 2025 & EMNLP 2025.  
